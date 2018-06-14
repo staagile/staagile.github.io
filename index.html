@@ -16,8 +16,14 @@
 
 <div class="pagination">
     {% if paginator.previous_page %} {% if paginator.previous_page == 1 %}
-    <a class="btn btn-default previous" href="{{ site.baseurl}}/index.html">Newer</a> {% else %}
-    <a class="btn btn-default previous" href="{{ site.baseurl}}/page{{ paginator.previous_page }}">Newer</a> {% endif %} {% endif %}
+    <p class="previous">
+        <a class="btn btn-default" href="{{ site.baseurl}}/index.html">Newer</a>
+    </p> {% else %}
+    <p class="previous">
+        <a class="btn btn-default" href="{{ site.baseurl}}/page{{ paginator.previous_page }}">Newer</a>
+    </p> {% endif %} {% endif %}>
     <span class="page_number ">Page: {{ paginator.page }} of {{ paginator.total_pages }}</span> {% if paginator.next_page %}
-    <a class="btn btn-default" href="{{ site.baseurl}}/page{{ paginator.next_page }}" class="next">Older</a> {% endif %}
+    <p class="next">
+        <a class="btn btn-default" href="{{ site.baseurl}}/page{{ paginator.next_page }}">Older</a>
+    </p> {% endif %}
 </div>
