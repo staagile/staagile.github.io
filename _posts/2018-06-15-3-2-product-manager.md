@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "3.2 제품 책임자"
-comments: false
+comments: true
 ---
 
 3.2 제품 책임자

@@ -1,6 +1,7 @@
 ---
 layout: post
 title: 2장 리드미 개요
+comments: true
 ---
 2.1 리드미 원리
 ===============
