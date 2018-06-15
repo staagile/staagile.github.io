@@ -30,14 +30,15 @@ isso: ''
 # Set this to your disqus shortname to enable comments via disqus. Set to '' to disable disqus.
 disqus: ''
 
-permalink: /:year/:month/:title
+#permalink: /:year/:month/:title
+permalink: /:title
 paginate: 3
 
 highlighter: rouge
 markdown: kramdown
-gems: ['jekyll-paginate']
-# plugins:
-#   - jekyll-feed
-#   - jekyll-paginate
+# gems: ['jekyll-paginate']
+plugins:
+   - jekyll-feed
+   - jekyll-paginate
 
 exclude: ['README.md', 'LICENSE']
