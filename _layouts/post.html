@@ -1,14 +1,5 @@
 {% include header.html %}
 
-<script>
-    (function() { // DON'T EDIT BELOW THIS LINE
-        var d = document,
-            s = d.createElement('script');
-        s.src = 'https://staagile.disqus.com/embed.js';
-        s.setAttribute('data-timestamp', +new Date());
-        (d.head || d.body).appendChild(s);
-    })();
-</script>
 <div class="container container-left">
     <div class="row">
         <div class="col-md-3 hidden-xs">
@@ -36,10 +27,6 @@
                     {% endif %} {% endif %}
                 </div>
             </div>
-            <!-- start -->
-            <!-- post add -->
-
-            <!-- end -->
             <div class="pagination">
                 {% if page.next %}
                 <a class="btn btn-default" href="{{ site.baseurl}}{{ page.next.url }}" class="next">Newer Post</a> {% endif %} {% if page.previous %}
