@@ -42,3 +42,5 @@ plugins:
    - jekyll-paginate
 
 exclude: ['README.md', 'LICENSE']
+
+disqus_shortname: staagile
