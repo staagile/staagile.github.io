@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: default
 title: "3.2 제품 책임자"
 comments: false
 ---

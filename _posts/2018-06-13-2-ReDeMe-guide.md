@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: default
 title: 2장 리드미 개요
 ---
 2.1 리드미 원리
