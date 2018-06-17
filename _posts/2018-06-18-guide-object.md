@@ -3,7 +3,7 @@ layout: post
 title:  "1.2 가이드 목적과 적용 범위"
 subtitle:   "1.2 가이드 목적과 적용 범위"
 categories: guide
-tags: guide
+tags: 가이드목적과적용범위
 comment: true
 ---
 
