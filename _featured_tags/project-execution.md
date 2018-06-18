@@ -6,5 +6,4 @@ category: toc
 menu: false
 order: 2
 comment: true
-#header-img: "/img/vue-logo.png"
 ---

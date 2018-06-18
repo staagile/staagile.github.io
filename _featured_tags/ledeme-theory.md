@@ -1,7 +1,7 @@
 ---
 layout: tag-blog
 title: 2.1 리드미 원리
-slug: ledeme
+slug: ledeme-theory
 category: ledeme
 menu: false
 order: 1

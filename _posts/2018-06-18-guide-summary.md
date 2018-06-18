@@ -3,7 +3,7 @@ layout: post
 title:  "1.4 가이드 요약"
 subtitle:   "1.4 가이드 요약"
 categories: guide
-tags: guide
+tags: guide-summary
 comment: true
 ---
 

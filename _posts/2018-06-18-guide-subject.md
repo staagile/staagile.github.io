@@ -3,7 +3,7 @@ layout: post
 title:  "1.1 서문"
 subtitle:   "1.1 서문"
 categories: guide
-tags: guide
+tags: guide-subject
 comment: true
 ---
 

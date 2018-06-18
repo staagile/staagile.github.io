@@ -3,15 +3,13 @@ layout: post
 title:  "1.2 가이드 목적과 적용 범위"
 subtitle:   "1.2 가이드 목적과 적용 범위"
 categories: guide
-tags: 가이드목적과적용범위
+tags: guide-object
 comment: true
 ---
 
 1.2 가이드 목적과 적용 범위
 
-```
 경량 개발 방법론(리드미, LeDeMe) 가이드의 목적은 중소 기업이 고객을 위해 소프트웨어 개발을 신속하고 효율적이며 효과적으로 개발을 할 수 있도록 도움을 주는 데에 있다.
-```
 
 __1.2.1 목적__
 

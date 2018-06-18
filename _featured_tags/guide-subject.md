@@ -1,7 +1,7 @@
 ---
 layout: tag-blog
 title: 1.1 서문
-slug: guide
+slug: guide-subject
 category: guide
 menu: false
 order: 1

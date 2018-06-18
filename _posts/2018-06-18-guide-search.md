@@ -3,7 +3,7 @@ layout: post
 title:  "1.3 가이드 활용 방법"
 subtitle:   "1.3 가이드 활용 방법"
 categories: guide
-tags: guide
+tags: guide-search
 comment: true
 ---
 

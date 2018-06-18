@@ -3,7 +3,7 @@ layout: post
 title:  "2.2 권장사항"
 subtitle:   "2.2 권장사항"
 categories: ledeme
-tags: 권장사항
+tags: ledeme-recomment
 comment: true
 ---
 

@@ -2,22 +2,22 @@
 #  User configuration
 # -----------------------------------------------------------------------------
 
-title:               Agile Now
+title: Agile Now
 
 # The unique resource location of your page.
 # Set to `https://<username>.github.io` when hosting on GitHub Pages
-url:                 https://staagile.github.io
+url:                 http://127.0.0.1:4000
 
 # Set to '' when hosting a blog on GitHub Pages, ie on `//<username>.github.io`
 # Set to '/<reponame>' when using the `gh-pages` branch of a repository
 baseurl:             ""
 
 # A very short description of your page
-tagline:             STA의 애자일 방법론 리드미(LeDeMe)입니다.
+tagline:  STA의 애자일 방법론 리드미(LeDeMe)입니다.
 
 # A short description of the page, used in the sidebar and as fallback for the meta description tag.
 # Markdown enabled, but don't use more than one paragraph (enforced by `>`)
-description:         >
+description: >
   STA의 애자일 방법론 리드미(LeDeMe)
 
 # This should be the same author as first entry in `_data/authors.yml`

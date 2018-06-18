@@ -1,10 +1,9 @@
 ---
 layout: tag-blog
-title: 3장 역할
-slug: position
+title: 3.1 팀
+slug: position-team
 category: position
 menu: false
 order: 3
 comment: true
-#header-img: "/img/vue-logo.png"
 ---
